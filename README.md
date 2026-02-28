@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="MLflow-Sentinel Banner" width="100%"/>
+
 
 # MLflow-Sentinel
 
